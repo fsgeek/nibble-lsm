@@ -38,7 +38,7 @@
 #![allow(unused_mut)]
 
 // Used for likely/unlikely
-#![feature(core_intrinsics)]
+// #![feature(core_intrinsics)]
 
 // Remove these XXX
 #![allow(dead_code)]

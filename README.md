@@ -55,7 +55,7 @@ rustc 1.17.0-nightly (e1cec5d4b 2017-03-29)
 The first time build will take a while to update the registry. Just be patient. 
 
 ```
-cd nibble
+cd src
 cargo update
 cargo build --lib --release
 ```
